@@ -35,6 +35,10 @@ All tools are read-only. Credits are charged only when results come back; repeat
 ```
 claude mcp add --transport http tryit https://inctryit.com/mcp
 ```
+or as a plugin:
+```
+/plugin install tryit --marketplace neulketing/tryit-mcp
+```
 
 **Gemini CLI:**
 ```

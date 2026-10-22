@@ -1,0 +1,10 @@
+{
+  "name": "tryit",
+  "version": "2.0.0",
+  "description": "Short-form video trend data (YouTube Shorts, Reels, TikTok) for Claude: trending videos, rising keywords and creators, channel analysis, original-upload candidates and ad creatives across 101 countries. Remote MCP server, sign in with OAuth.",
+  "author": { "name": "TRYIT", "email": "hello@inctryit.com", "url": "https://inctryit.com" },
+  "homepage": "https://inctryit.com/en/mcp",
+  "repository": "https://github.com/neulketing/tryit-mcp",
+  "license": "MIT",
+  "keywords": ["mcp", "youtube-shorts", "tiktok", "reels", "trends", "marketing"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tryit",
+  "owner": { "name": "TRYIT", "email": "hello@inctryit.com" },
+  "plugins": [
+    {
+      "name": "tryit",
+      "source": "./",
+      "description": "Short-form video trend data (Shorts, Reels, TikTok) for Claude via the TRYIT remote MCP server."
+    }
+  ]
+}
