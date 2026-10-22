@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "tryit": { "type": "http", "url": "https://inctryit.com/mcp" }
+  }
+}

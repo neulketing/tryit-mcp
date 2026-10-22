@@ -1,0 +1,9 @@
+{
+  "name": "tryit",
+  "version": "2.0.0",
+  "description": "Short-form trend data: viral Shorts, Reels and TikTok, rising keywords and creators, YouTube channel breakdowns, original-upload candidates and long-running Meta ads.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "tryit": { "httpUrl": "https://inctryit.com/mcp" }
+  }
+}
